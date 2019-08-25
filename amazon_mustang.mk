@@ -3,7 +3,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 PRODUCT_NAME := amazon_mustang
 PRODUCT_DEVICE := mustang
 PRODUCT_BRAND := Android
-PRODUCT_MODEL := AOSP on mustang
+PRODUCT_MODEL := mustang
 PRODUCT_MANUFACTURER := Amazon
 PRODUCT_RESTRICT_VENDOR_FILES := true
 
